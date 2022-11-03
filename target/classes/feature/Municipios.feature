@@ -7,4 +7,4 @@ Feature: Consumo servicio municipios
 
     Examples:
     |provincia|municipio|
-    |"PONTEVEDRAA"|"VIGO"|
+    |"PONTEVEDRA"|"VIGO"|
